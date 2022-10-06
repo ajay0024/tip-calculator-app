@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ajay0024/tip-calculator
-- Live Site URL: https://ajay0024.github.io/tip-calculator/
+- Live Site URL: https://ajay0024.github.io/tip-calculator-app/
 
 ## My process
 I build with mobile first workflow. Grid layout has been used in conjunction with  flex . Javascipt has been used for all the calculations and validation.
